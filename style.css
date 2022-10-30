@@ -1,0 +1,90 @@
+<style> 
+.centraltext {
+    position: absolute;
+width: 765px;
+height: 90px;
+left: 578px;
+top: 250px;
+
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 74px;
+line-height: 90px;
+text-transform: uppercase;
+align-items: center;
+
+color: #212733;
+}
+.text-behindmain {
+    position: absolute;
+width: 270x;
+height: 22px;
+left: 820px;
+top: 400px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+color: #000000;
+}
+.centralbutton {
+    box-sizing: border-box;
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 14px 30px;
+gap: 19px;
+
+position: absolute;
+width: 230px;
+height: 60px;
+left: 795px;
+top: 480px;
+
+border: 1px solid #000000;
+}
+.logoNameleft {
+    position: absolute;
+left: 22.03%;
+right: 70.37%;
+top: 0.62%;
+bottom: 99.02%;
+}
+
+.LogoViewTriangle {
+    position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+border: 1px solid #000000;
+}
+.refLink {
+    height: 12px;
+width: 7.049895286560059px;
+left: 2.47509765625px;
+top: 100px;
+border-radius: 0px;
+
+}
+
+.RightSideBtn {
+    position: absolute;
+left: 0%;
+right: 0%;
+top: 5%;
+bottom: 5%;
+
+}
+</style>
